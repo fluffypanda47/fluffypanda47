@@ -2,7 +2,7 @@
 - 👀 I’m interested in App development
 - 🌱 I’m currently learning Flutter and looking forward to learn android via kotlin.
 - 💞️ I’m looking to collaborate on Front end projects.
-- 📫 You can reach me via mail: fluffypanda@gmail.com
+- 📫 You can reach me via mail: fluffypanda4724@gmail.com
 
 <!---
 fluffypanda47/fluffypanda47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
