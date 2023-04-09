@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fluffypanda47 
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning Flutter and looking forward to learn android via kotlin.
+- 🌱 I’m currently learning android via kotlin Jetpack Compose.
+- 📖 I am interesed in becoming a full-stack android developer.
 - 💞️ I’m looking to collaborate on Front end projects.
 - 📫 You can reach me via mail: fluffypanda4724@gmail.com
 
